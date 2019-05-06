@@ -1,0 +1,14 @@
+c:\users\ermias\source\repos\EmployeeMicroservice\EmployeeMicroservice\bin\Debug\netcoreapp2.2\EmployeeMicroservice.deps.json
+c:\users\ermias\source\repos\EmployeeMicroservice\EmployeeMicroservice\bin\Debug\netcoreapp2.2\EmployeeMicroservice.runtimeconfig.json
+c:\users\ermias\source\repos\EmployeeMicroservice\EmployeeMicroservice\bin\Debug\netcoreapp2.2\EmployeeMicroservice.runtimeconfig.dev.json
+c:\users\ermias\source\repos\EmployeeMicroservice\EmployeeMicroservice\bin\Debug\netcoreapp2.2\EmployeeMicroservice.dll
+c:\users\ermias\source\repos\EmployeeMicroservice\EmployeeMicroservice\bin\Debug\netcoreapp2.2\EmployeeMicroservice.pdb
+c:\users\ermias\source\repos\EmployeeMicroservice\EmployeeMicroservice\obj\Debug\netcoreapp2.2\EmployeeMicroservice.csprojResolveAssemblyReference.cache
+c:\users\ermias\source\repos\EmployeeMicroservice\EmployeeMicroservice\obj\Debug\netcoreapp2.2\EmployeeMicroservice.csproj.CoreCompileInputs.cache
+c:\users\ermias\source\repos\EmployeeMicroservice\EmployeeMicroservice\obj\Debug\netcoreapp2.2\EmployeeMicroservice.RazorAssemblyInfo.cache
+c:\users\ermias\source\repos\EmployeeMicroservice\EmployeeMicroservice\obj\Debug\netcoreapp2.2\EmployeeMicroservice.RazorAssemblyInfo.cs
+c:\users\ermias\source\repos\EmployeeMicroservice\EmployeeMicroservice\obj\Debug\netcoreapp2.2\EmployeeMicroservice.AssemblyInfoInputs.cache
+c:\users\ermias\source\repos\EmployeeMicroservice\EmployeeMicroservice\obj\Debug\netcoreapp2.2\EmployeeMicroservice.AssemblyInfo.cs
+c:\users\ermias\source\repos\EmployeeMicroservice\EmployeeMicroservice\obj\Debug\netcoreapp2.2\EmployeeMicroservice.RazorTargetAssemblyInfo.cache
+c:\users\ermias\source\repos\EmployeeMicroservice\EmployeeMicroservice\obj\Debug\netcoreapp2.2\EmployeeMicroservice.dll
+c:\users\ermias\source\repos\EmployeeMicroservice\EmployeeMicroservice\obj\Debug\netcoreapp2.2\EmployeeMicroservice.pdb
